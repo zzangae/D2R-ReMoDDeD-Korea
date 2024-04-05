@@ -50,7 +50,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GameplayChangesT",
                                     "fields": {
-                                        "text": "Socket-Related",
+                                        "text": "소켓 관련",
                                         "style": "$StyleSettingsTitle"
                                     },
                                     "children": [
@@ -71,7 +71,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC3T",
                                     "fields": {
-                                        "text": "Normal Item + Gold Bar = Socketed Item (Max Sockets)",
+                                        "text": "노멀 아이템 + 금괴 분배기 = 소켓 아이템 (소켓 최대치)",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -83,7 +83,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC3T",
                                     "fields": {
-                                        "text": "Ramaladni's Gift + Magic or Higher Quality Item = Same Item +1 Socket (Repeatable)",
+                                        "text": "라말라드니의 선물 + 마법 등급 이상의 품질 아이템 = 동일 아이템 +1 소켓 (반복 가능)",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -95,7 +95,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "1x Each Essence = Socket Remover (Destroys runes/jewels)",
+                                        "text": "각 에센스 1개 = 소켓 제거기 (룬/보석 파괴)",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -107,7 +107,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "10x Socket Remover = Premium Socket Remover (Keeps runes/jewels)",
+                                        "text": "소켓 제거기 10개 = 프리미엄 소켓 제거기 (룬/보석 유지)",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -119,7 +119,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC3T",
                                     "fields": {
-                                        "text": "Ramaladni's Gift Slot Limits: 1-Hand: 4, 2-Hand: 6",
+                                        "text": "Ramaladni의 선물 슬롯 제한: 한손: 4, 양손: 6",
                                         "style": "$RecipeSettingsTextFlatBlue"
                                     }
                                 }
@@ -131,7 +131,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GameplayChangesT",
                                     "fields": {
-                                        "text": "Quality Upgrades",
+                                        "text": "품질 업그레이드",
                                         "style": "$StyleSettingsTitle"
                                     },
                                     "children": [
@@ -152,7 +152,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Normal Item + 3x Rare Jewels = Rare Item (same ilvl)",
+                                        "text": "노멀 아이템 + 레어 보석 3개 = 레어 아이템 (동일 레벨)",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -164,7 +164,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Skull + Rare Item + Stone of Jordan = High Quality Rare Item",
+                                        "text": "Skull + 레어 아이템 + Stone of Jordan = 고품질 레어 아이템",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -176,7 +176,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC1T",
                                     "fields": {
-                                        "text": "Weapons",
+                                        "text": "무기",
                                         "style": "$RecipeSettingsTextRed"
                                     }
                                 }
@@ -188,7 +188,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC1T",
                                     "fields": {
-                                        "text": "Eld + Gem (Any) + Low Quality Weapon = Normal Weapon",
+                                        "text": "엘드 룬 + 보석 (아무거나) + 낮은 품질의 무기 = 노멀 무기",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -200,7 +200,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Ort + Amn + Sapphire + Normal Rare Weapon = Exceptional Rare Weapon",
+                                        "text": "오르트 룬 + 앰 룬 + 사파이어 + 노멀 레어 아이템 = 익셉셔널 레어 아이템",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -212,7 +212,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Fal + Um + Sapphire + Exceptional Rare Weapon = Elite Rare Weapon",
+                                        "text": "팔 룬 + 우움 룬 + 사파이어 + 익셉셔널 레어 무기 = 엘리트 레어 무기",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -224,7 +224,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Ral + Sol + Emerald + Normal Unique Weapon = Exceptional Unique Weapon",
+                                        "text": "랄 룬 + 솔 룬 + 에메랄드 + 노멀 유니크 무기 = 익셉셔널 유니크 무기",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -236,7 +236,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Lum + Pul + Emerald + Exceptional Unique Weapon = Elite Unique Weapon",
+                                        "text": "룸 룬 + 풀 룬 + 에메랄드 + 익셉셔널 유니크 무기 = 엘리트 유니크 무기",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -248,7 +248,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC1T",
                                     "fields": {
-                                        "text": "Armors",
+                                        "text": "방어구",
                                         "style": "$RecipeSettingsTextRed"
                                     }
                                 }
@@ -260,7 +260,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "El + Gem (Any) + Low Quality Armor = Normal Armor",
+                                        "text": "엘 룬 + 보석 (아무거나) + 낮은 품질의 방어구 = 노멀 방어구",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -272,7 +272,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Ral + Thul + Amethyst + Normal Rare Armor = Exceptional Rare Armor",
+                                        "text": "랄 룬 + 주울 룬 + 자수정 + 노멀 레어 방어구 = 익셉셔널 레어 방어구",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -284,7 +284,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Ko + Pul + Amethyst + Exceptional Rare Armor = Elite Rare Armor",
+                                        "text": "코 룬 + 풀 룬 + 자수정 + 익셉셔널 레어 방어구 = 엘리트 레어 방어구",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -296,7 +296,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Tal + Shael + Diamond + Normal Unique Armor = Exceptional Unique Armor",
+                                        "text": "탈 룬 + 샤엘 룬 + 다이아몬드 + 노멀 유니크 방어구 = 익셉셔널 유니크 방어구",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -308,7 +308,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Ko + Lem + Diamond + Exceptional Unique Armor = Elite Unique Armor",
+                                        "text": "코 룬 + 렘 룬 + 다이아몬드 + 익셉셔널 유니크 방어구 = 엘리트 유니크 방어구",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -320,7 +320,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GameplayChangesT",
                                     "fields": {
-                                        "text": "Utility Upgrades",
+                                        "text": "도구 업그레이드",
                                         "style": "$StyleSettingsTitle"
                                     },
                                     "children": [
@@ -341,7 +341,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "10x Magic Jewels = 1x Rare Jewel",
+                                        "text": "매직 보석 10개 = 레어 보석 1개",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -353,7 +353,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Storage Bag + 10x Rainbow Facets = Storage Bag (+100 Gems)",
+                                        "text": "보관 가방 + 10x Rainbow Facets = 보관 가방 (+100 보석)",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -365,7 +365,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "2x Zod Rune = Rare Jewel w/ Indestructible",
+                                        "text": "조드 룬 2개 = 파괴 불가능한 레어 보석",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -377,7 +377,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Any Item + Any Hammer = Item w/ Knockback Added",
+                                        "text": "아이템 아무거나 + 망치 아무거나 = 넉백이 추가된 아이템",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -389,7 +389,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Any Item + Gold Bars (Separated) = Add Ethereal to Item",
+                                        "text": "아이템 아무거나 + 금괴 분배기 (별도) = 아이템에 에테리얼 추가",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -401,7 +401,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Gold Bar Cost: Normal/Socketed - 2, Magic/Superior - 3, Rare - 4, Unique/Set - 5 ",
+                                        "text": "금괴 분배기 비용: 노멀/소켓 - 2, 매직/슈페리어 - 3, 레어 - 4, 유니크/세트 - 5 ",
                                         "style": "$RecipeSettingsTextFlatBlue"
                                     }
                                 }
