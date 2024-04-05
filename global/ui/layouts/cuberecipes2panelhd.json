@@ -50,7 +50,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GameplayChangesT",
                                     "fields": {
-                                        "text": "Quest-Related",
+                                        "text": "퀘스트 관련",
                                         "style": "$StyleSettingsTitle"
                                     },
                                     "children": [
@@ -71,7 +71,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC3T",
                                     "fields": {
-                                        "text": "Staff of Kings + Amulet of the Viper = Horadric Staff",
+                                        "text": "왕들의 지팡이 + 독사의 목걸이 = 호라드림 지팡이",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -83,7 +83,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC3T",
                                     "fields": {
-                                        "text": "Khalim's Flail + Heart + Eye + Brain = Khalim's Will",
+                                        "text": "칼림의프레일 + 눈 + 심장 + 뇌 = 칼림스 윌",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -95,7 +95,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GameplayChangesT",
                                     "fields": {
-                                        "text": "Portals",
+                                        "text": "포탈",
                                         "style": "$StyleSettingsTitle"
                                     },
                                     "children": [
@@ -116,7 +116,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC3T",
                                     "fields": {
-                                        "text": "Wirt's Leg = Portal to The Secret Cow Level",
+                                        "text": "워트의 의족 = 카우 레벨로 가는 포털",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -128,7 +128,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "All 3 Keys (1 each) = Portal to Ubers(Random)",
+                                        "text": "공포/증오/파괴의 열쇠 (각각 1개) = 우버로 가는 포털 (무작위)",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -140,7 +140,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "All 3 Organs (1 each) = Portal to Tristram (Pandemonium)",
+                                        "text": "디아블로의 뿔/메피스토의 뇌/바알의 눈 (각각 1개) = 트리스트람으로 가는 문(팬데모니엄)",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -152,7 +152,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GameplayChangesT",
                                     "fields": {
-                                        "text": "Potions",
+                                        "text": "포션",
                                         "style": "$StyleSettingsTitle"
                                     },
                                     "children": [
@@ -173,7 +173,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC1T",
                                     "fields": {
-                                        "text": "Storage Bag(1 Gem) + 3 Healing Potions + 3 Mana Potions = Full Rejuvenation Potion",
+                                        "text": "보관 가방 (보석 1개) + 치유 물약 3개 + 마나 물약 3개 = 대량의 활약 물약",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -185,7 +185,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "3 Rejuvenations = Full Rejuvenation",
+                                        "text": "활력 물약 3개 = 대량의 활약 물약",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -197,7 +197,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC1T",
                                     "fields": {
-                                        "text": "Storage Bag + 1-100 Full Rejuvenation Potions = +1-100 Full Rejuv's Deposited",
+                                        "text": "보관 가방 + 대량의 활약 물약 1-100 개 = +1-100 Full Rejuv's Deposited",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -209,7 +209,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC1T",
                                     "fields": {
-                                        "text": "Storage Bag(1 Full Rejuv) + Healing/Mana Potion = 1 Full Rejuvenation Potion Withdrawn",
+                                        "text": "보관 가방 (1 Full Rejuv) + 치유/마나 물약 = 완전 회복 물약 회수 1개",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -221,7 +221,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GameplayChangesT",
                                     "fields": {
-                                        "text": "Jewelery",
+                                        "text": "보석류",
                                         "style": "$StyleSettingsTitle"
                                     },
                                     "children": [
@@ -242,7 +242,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC1T",
                                     "fields": {
-                                        "text": "6 Gems (1 of each type, no skull) + Magic Amulet = Prismatic Amulet",
+                                        "text": "보석 6개 (유형별 1개, 해골 없음) + 매직 목걸이 = 프리즘 목걸이",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -254,7 +254,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "3 Magic Rings = Magic Amulet",
+                                        "text": "매직 반지 3개 = 매직 목걸이",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -266,7 +266,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "3 Magic Amulets = Magic Ring",
+                                        "text": "매직 목걸이 3개 = 매직 반지",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -278,7 +278,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "5 Rare Rings = Rare Amulet",
+                                        "text": "레어 반지 5개 = 레어 목걸이",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -290,7 +290,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "5 Rare Amulets = Rare Ring",
+                                        "text": "레어 목걸이 5개 = 레어 반지",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -302,7 +302,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GameplayChangesT",
                                     "fields": {
-                                        "text": "Runes",
+                                        "text": "룬",
                                         "style": "$StyleSettingsTitle"
                                     },
                                     "children": [
@@ -323,7 +323,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Ort Rune + Weapon (Any) = Fully Repaired Weapon",
+                                        "text": "오르트 룬 + 무기 (아무거나) = 완전히 수리된 무기",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -335,7 +335,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Ral Rune + Armor (Any) = Fully Repaired Armor",
+                                        "text": "랄 룬 + 방어구 (아무거나) = 완전히 수리된 방어구",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -347,7 +347,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Ort Rune + Gem (Any) + Weapon (Any) = Repaired and Recharged Weapon",
+                                        "text": "오르트 룬 + 보석 (아무거나) + 무기 (아무거나) = 수리 및 재충전된 무기",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
@@ -359,7 +359,7 @@
                                 {
                                     "type": "TextBoxWidget", "name": "GC2T",
                                     "fields": {
-                                        "text": "Ral Rune +  Gem (Any) + Armor (Any) = Repaired and Recharged Armor",
+                                        "text": "랄 룬 +  보석 (아무거나) + 방어구 (아무거나) = 수리 및 재충전된 방어구",
                                         "style": "$RecipeSettingsText"
                                     }
                                 }
