@@ -13,7 +13,7 @@
             "fields": {
                 "rect": "$OptionsScrollBarBackgroundRect",
                 "anchor": { "x": 1.0 },
-                "filename": "PauseMenu\\VerticalScroll"
+                "filename": "..\\..\\..\\ReMoDDeD\\Info\\ScrollBG"
             },
             "children": [
                 {
@@ -52,7 +52,7 @@
                                     "type": "TextBoxWidget", "name": "Video Options",
                                     "fields": {
                                         "rect": { "x": 10, "y": -20},
-                                        "text": "Blood Pact",
+                                        "text": "피의 계약",
                                         "style": "$RWHeader"
                                     }
                                 },
